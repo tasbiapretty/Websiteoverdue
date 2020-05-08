@@ -1,4 +1,4 @@
 ## Everything you need to know about SCRUM!
 
- This is my Website overdue. Here I will show you all the cools things i have:
- 1. To be listed
+ This Website I am going to dicuss the cools things about SCRUM is that:
+ 1. Firstly, what is SCRUM?
