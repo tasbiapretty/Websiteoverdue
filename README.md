@@ -63,8 +63,11 @@ It's a prioritized list with the most important items appearing towards the top,
 
 A prioritized list of sized things to do and a capacity? Could it be that creating a Sprint Backlog is as simple as taking items from the top of the Product Backlog until the number of story points is equal to the Capacity? Perhaps with a bit of jiggling around at the end to fill the space. If it was as simple as that there'd be a button to do it in Jira.
 There's not a button for that. Is there a button for that in Jira? Not a clue. Let's take half a step back here, it's the Development. Team's job to, by the end of the Sprint, produce an Increment, to give it its Sunday name, a potentially, I never say that right, to produce a Potentially Releasable Increment. So it makes sense as far as it's possible, to select items from the Product Backlog that are complementary, coherent, or pulling in a similar direction.
+
 ![Imaige of Sprint 2](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-is-sprint-backlog-in-scrum/sites/7/2018/12/scrum-sprint-backlog.png
+
 [Imiage of Sprint 2](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-is-sprint-backlog-in-scrum/sites/7/2018/12/scrum-sprint-backlog.png)
+
 
 Pulling towards a Sprint Goal. The Scrum Guide ties these things together quite nicely. The Sprint Backlog is the set of Product Backlog items selected for the Sprint, plus a plan for delivering the product Increment and realizing the Sprint Goal.
 One thing to note that it is the Development Team and the Development Team alone that selects items for the Sprint Backlog. Yes the other members of the team have an influence but the final say goes to the Development Team. And there's another important point concerning adding work to the Sprint Backlog during the course of the Sprint. So what do you reckon? Is it okay to add work to the Sprint Backlog during a Sprint?
