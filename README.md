@@ -33,11 +33,11 @@ Agile is a collaborative system placed forward that teams can use to make decisi
 **Defintion:** Scrum is a process framework used to manage product development and other knowledge work.  Scrum is empirical in that it provides a means for teams to establish a hypothesis of how they think something works, try it out, reflect on the experience, and make the appropriate adjustments.  That is, when the framework is used properly.
 Scrum is structured in a way that allows teams to incorporate practices from other frameworks where they make sense for the team’s context
 
-1. **Increment**
+## **Increment**
 This is inspectable and empiricism, is a step towards a vision or goal. If the product owner owns the decision as to whether or not to release a piece of code, or indeed whether or not to publish an episode, then the development teams definition of done should stop short of that point, of that decision.
 **Why?** Well, because the development team should be able to achieve its definition of done without any input from the product owner. I focused so much on the end of that sentence that I almost forgot to talk about the beginning. The increment must be in a usable condition. So the firm condition here is not that it's released, but that it is releasable.
 
-2. **The Sprint**
+## **The Sprint**
 Each sprint may be considered a project with no more than one month horizon, like projects sprint are used to accomplish something, each sprint has a goal of what is to be built, a design and flexible plan that will guide building it,  the work, and the resultant product increment.
 Each sprint goes through the waterfall stage design, build, test and release and repeats per sprint cycle.
 **What about release?** Scrum does not require a release, but every sprint to build termed a potentially releasable increment. 
@@ -45,7 +45,7 @@ There’s nothing in the scrum guide were have to wait till the end before relea
 The benefits to scrum is that, it reduces risk, so if you run of wrong direction at least you did so in less than a month or few weeks and rather than build up of years.
 At the end of each sprint, we inspect and adapt, which is built in another scrum event the sprint review.
 
-3. **Sprint planning**
+## **Sprint planning**
 "No changes are made that would endanger the Sprint Goal." Of course, it's quite normal for the team itself, to make changes as it moves through the Sprint, and discovers new things about the work, and the Scrum Guide words this rather nicely, "Scope may be clarified and renegotiated between, the Product Owner and Development Team as more is learned."
 ![Imaige of Sprint](https://www.techagilist.com/wp-content/uploads/2018/01/Sprint-Planning-1280x720.png)
 [Imaige of Sprint](https://www.techagilist.com/wp-content/uploads/2018/01/Sprint-Planning-1280x720.png)
@@ -57,7 +57,7 @@ We have a tendency towards optimism, so it's not unusual for the team to approac
 Well, no it's not. We never increase the size of the Sprint. However, if things get really hairy, we do have the option, of canceling the Sprint.
 Here's what the Scrum Guide says about that: "A Sprint would be canceled "if the Sprint Goal becomes obsolete. "This might occur if the company changes direction" or if market or technology conditions change. In general, a Sprint should be cancelled , if it no longer makes sense given the circumstances". Dramatic stuff indeed but, given that a Sprint is only a few weeks long anyway, Sprint cancellation is rare.
 
-4. **Sprint Backlog:**
+## **Sprint Backlog:**
 The Sprint Backlog is a list of things that the development team will work on during the Sprint, it's created once per Sprint and the event where it's created is the Sprint Planning Meeting. The Product Backlog, the master list of things to do, provides the input. I think I'm on safe ground so far, let's just check in with the Scrum Guide. The Spring Backlog is the set of Product Backlog items selected for the Sprint. So far so good. Two properties of the Product Backlog and its contents are useful slash relevant when it comes to selecting items.
 It's a prioritized list with the most important items appearing towards the top, and the items, if not all of them, but certainly those towards the top of the list are sized. I'm going to represent the relative size like this. It's common practice to size using story points. Although you won't find a mention of story points in the Scrum Guide. And if the team has a few Sprints under its belt it will have an idea of its Capacity, in other words the number of story points it can handle, it can process during one Sprint.
 
@@ -75,12 +75,15 @@ One thing to note that it is the Development Team and the Development Team alone
 Sprint Backlog during the course of the Sprint, well the answer is no and it's yes. The Sprint Backlog is Scrum's way of limiting work in progress, and limiting work in progress is important for getting things done and getting thing done quickly with a minimum of context switching. So when Sprint Planning is over, the Sprint Backlog is locked down. Any attempt by anyone outside the Development Team to add new work into the
 Sprint Backlog should be vigorously resisted, in fact it's one of the Scrum Master's key roles to protect the Sprint Backlog from external influence. But that's not to say that the Sprint Backlog is fixed, agile development is a process of discovery, and it's not uncommon for new work to be uncovered during the course of the Sprint, new work that is required in order to produce a Potentially Releasable Increment. Hey I said it that time. The Scrum Guide puts it like this, the Development Team modifies the Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint.
 The emergence occurs as the Development Team works through the plan and learns more about the work needed to achieve the Sprint Goal. In short, work can be added to the Sprint Backlog but only by the Development Team.
-Product backlog: 
+
+## **Product backlog:** 
 The Product Backlog is an ordered list of everything that is known to be needed in the product. The words of the Scrum Guide And, the Scrum Guide goes on to devote a fair few column inches to the Product Backlog.
 The Product Backlog is one of the three Scrum Artifactsalong with the Sprint Backlog and the Increment. You'll find episodes on both of those, and many other aspects of Scrum, at this link, and this is probably also a good time to remind you that there is a cheat sheet to go along with this series.
 The Product Backlog sits here outside of the Sprint Loop, but a key input to it. Without the Product Backlog, there'd be nothing to plan in Sprint Planning, and there'd be nothing to put in the Sprint Backlog. If I zoom out further to the overall Agile flow, we see that the Product Backlog is a vessel,  a collection point for feedback received from the customer, as well as from stakeholders, and from the development team.
 As we covered in the first episode of this series, this flow is not unique to Scrum, nor is the Product Backlog a construct that is unique to Scrum. It's common to all of the Agile frameworks that I'm aware of.
 There's a very well-defined way of getting items out of the Product Backlog. That's the ritual, the event, that we call Sprint Planning, The point where items are taken from the Product Backlog into the Sprint Backlog. Getting items into the Product Backlog is a little less well-defined, but at least there's one thing that is defined about the Product Backlog and that is it has a very specific owner, the Product Owner.
+![Imiage of Backlog](https://www.scrumdesk.com/wp-content/uploads/product-backlog-item-types.jpg)
+[Imiage of Backlog](https://www.scrumdesk.com/wp-content/uploads/product-backlog-item-types.jpg)
 
 Let's jump inside the Product Backlog. It's just to help you keep track of them as they move around, and move around they will. The Product Backlog is in a constant state of flux. The Product Owner's job is to maximize the value. of the product over time, and she does that by making sure that the most important items in this list appear towards the top.
 Most important, is that right? I've been saying that the most important items appear towards the top of the Backlog for so long that I've maybe lost track that that's not exactly right.
@@ -93,7 +96,7 @@ Here we go. The Product Backlog lists all features, functions, requirements, enh
 Zooming out a little bit to look at the Product Backlog as a whole, the items towards the top of this list we now know are ordered, they're detailed, and we have estimates from them. Being in a well-refined state is a consequence and a condition of their elevated status. As for the remaining items in the list, they may or may not be well-refined, depending upon their history. But, and here's the point, while these items in the mid-range are targets for Backlog refinement, the items towards the bottom of the list are not.
 As far as Backlog refinement is concerned, these items should be ignored. Why? Well, chances are that this item will never move up the list, that it will never be developed. And, that is the case, why waste time on it? Should the item rise up the list  at some point in the future, and of course I do wish it all the best, then it will find itself in the mid-range and become subject to refinement. But, until it does, it should be ignored.
  
-5. **Sprint review:**
+## **Sprint review:**
 This ensures, the product reviews and improves over time, so get to play the game sprint after sprint after sprint ect, this gives us the opportunity to get better at playing the game. 
 Empiricism asserts that knowledge comes from experience and from making decisions based on what is known. The Scrum guide goes on to talk about the three pillars of empirical process control.
 Transparency, inspection and adaptation,and the Sprint Review is all about those last two pillars, at the end of each Sprint we inspect and we adapt, but what do we inspect and what gets adapted?
@@ -113,7 +116,7 @@ With that said let's go back to that list, of seven bullet points from the Scrum
 **Number six**, review of how the marketplace or potential use of the product might have changed, what is the most valuable thing to do next.
 **Number seven**, and this one is a bit of a mouthful, review of the timeline, budget potential capabilities and marketplace, for the next anticipated releases of functionality, or capability of the product.
 
-6. **Scrum Master Responsibilities** 
+## **Scrum Master Responsibilities** 
 Indeed, we find scrum masters often perform some or all of the following, not all of which are defined by scrum:
 1. **Standups** - Facilitate daily standups (or the daily scrum) as needed.
 2. **Iteration/sprint** planning meetings – Protect the team from over-committing and scope creep. Aid in estimation and sub task creation.
@@ -128,7 +131,7 @@ Indeed, we find scrum masters often perform some or all of the following, not al
 ![Imiage of Scrum Master](https://d3timt52sxdbq0.cloudfront.net/wp-content/uploads/2018/01/scrummaster_joggling.jpg)
 [Imiage of Scrum Master](https://d3timt52sxdbq0.cloudfront.net/wp-content/uploads/2018/01/scrummaster_joggling.jpg)
 
-7. **Spike**
+## **Spike**
 This is like a user story, we don’t know how were going to deliver this and time box a time next sprint in how we are going to delivery this, so whoever in charge of spike will need to figure out how they will do this "Sometimes a story is too large or overly complex. Perhaps the implementation or a 3rd party tool or library is poorly understood. The team can’t estimate the story. Perhaps we’re unsure if we’ll be able to complete the story due to some potential blocker.
 User story the task e.g. putting in break out rooms
 Size story relevant to other story one doing it in fiminachi sequence so one point relative to others 
@@ -136,7 +139,7 @@ Tshirt sizes, if small or medium or large, so might need someone really big a lo
 ![Imaige of Spike](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17715c15-8b0c-4a06-9f24-2fbcb88d3f9a/spikeoutlinebig.png)
 [Imiage of Spike](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17715c15-8b0c-4a06-9f24-2fbcb88d3f9a/spikeoutlinebig.png)
 
-8. **Sprint retro:** 
+## **Sprint retro:** 
 The Sprint Retrospective is the last of Scrum's five events. And, if sprint (bubble popping) planning marks the beginning of a Sprint,
 then the Sprint Retrospective (bubble popping), marks its end. It is, as the Scrum Guide reminds us, an opportunity for the team to inspect itself.
 In the Sprint Review, we inspect and adapt the increment with the aim of improving the quality of the product over time. In the Sprint Retrospective, we inspect and adapt, well, pretty much everything else. One of the cool things about Scrum is, that, every two weeks, the clock re-starts, and we get to play the game again. And this gives us the opportunity to get better at playing the game. And Scrum doesn't leave this to chance. The Scrum Guide is very specific about the purpose of the Retrospective. It lists these three points
@@ -156,3 +159,4 @@ SCRUM provides a more efficent, fast, prodcutive management comapred to AGILE, a
 AGILE is mainly aimed at for those in the gaming industry whereas SCRUM is for more commerical context. 
 ![Imiage of SCRUM](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-are-scrum-ceremonies/sites/7/2018/11/the-agile-scrum-framework.png)
 [refer to Development that pays for more](https://www.youtube.com/watch?v=LKRi5o-95qw)
+[Please also refer to](https://www.atlassian.com/agile/scrum)
