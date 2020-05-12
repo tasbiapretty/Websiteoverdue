@@ -1,15 +1,15 @@
 h1{
 color: lawngreen;
 background: wheat;
-font-style: normal;
 font-variant: inherit;
 font-weight: normal;
 font-stretch: normal;
 font-size: 32px;
 line-height: normal;
-font-family: arial; 
+font-family: Barriecito;
 text-align:center;
 }
+
 Body{
 color: black;
 background: wheat;  
