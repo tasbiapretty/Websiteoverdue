@@ -1,5 +1,11 @@
 h1{
-color: crimson;
-background: floralwhite;
-font: bold normal 24px 1.2em "Fira Sans", sans-serif;
+color: lightseagreen;
+background: wheat;
+font-style: oblique;
+font-variant: normal;
+font-weight: normal
+font-stretch: normal
+font-size: large
+line-height: normal
+font-family: fantasy 
 }
