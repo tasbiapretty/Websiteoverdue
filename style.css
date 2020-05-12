@@ -3,20 +3,20 @@ color: lightseagreen;
 background: wheat;
 font-style: oblique;
 font-variant: normal;
-font-weight: normal
-font-stretch: normal
-font-size: large
-line-height: normal
-font-family: arial 
+font-weight: normal;
+font-stretch: normal;
+font-size: large;
+line-height: normal;
+font-family: arial; 
 }
 Body{
 color: black;
 background: wheat;  
 font-style: normal;
 font-variant: normal;
-font-weight: normal
-font-stretch: normal
-font-size: medium
-line-height: normal
-font-family: arial  
+font-weight: normal;
+font-stretch: normal;
+font-size: medium;
+line-height: normal;
+font-family: arial;  
 }
