@@ -5,7 +5,7 @@ font-style: normal;
 font-variant: inherit;
 font-weight: normal;
 font-stretch: normal;
-font-size: 24px;
+font-size: 32px;
 line-height: normal;
 font-family: arial; 
 }
@@ -19,13 +19,12 @@ font-stretch: normal;
 font-size: 16px;
 line-height: normal;
 font-family: arial; 
-background-position: 0% 0%;
 background-size: auto auto;
 background-repeat: repeat;
 background-origin: padding-box;
 background-clip: border-box;
 background-attachment: scroll;
-background-color: transparent; 
+background-color: wheat;
 }
 img{width:50%;
     height:50%;
