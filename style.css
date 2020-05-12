@@ -10,5 +10,13 @@ line-height: normal
 font-family: sans-serif 
 }
 Body{
-background: wheat;    
+color: black;
+background: wheat;  
+font-style: normal;
+font-variant: normal;
+font-weight: normal
+font-stretch: normal
+font-size: medium
+line-height: normal
+font-family: arial  
 }
