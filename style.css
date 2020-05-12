@@ -1,23 +1,24 @@
 h1{
-color: lawngreen;
-background: wheat;
+color: mediumblue;
+background: azure;
 font-variant: inherit;
 font-weight: normal;
 font-stretch: normal;
 font-size: 32px;
 line-height: normal;
-font-family: Barriecito;
+font-family: 'Crafty Girls';
 text-align:center;
 }
 
 Body{
 color: black;
-background: wheat;  
+background: azure;  
 font-style: normal;
 font-variant: normal;
 font-weight: normal;
 font-stretch: normal;
 font-size: 16px;
+font-family: 'Happy Monkey'
 line-height: normal;
 font-family: arial; 
 background-size: auto auto;
@@ -26,6 +27,7 @@ background-origin: padding-box;
 background-clip: border-box;
 background-attachment: scroll;
 background-color: wheat;
+padding: 5px;
 
 }
 img{width:50%;
@@ -35,26 +37,26 @@ img{width:50%;
     margin-right: auto;
     }
 h3{
-color: lawngreen;
-background: wheat;
+color: red;
+background: azure;
 font-style: normal;
 font-variant: inherit;
 font-weight: normal;
 font-stretch: normal;
 font-size: 32px;
 line-height: normal;
-font-family: arial; 
+font-family: 'Indie Flower';
 text-align:center;
 }    
 h2{
-    color: lawngreen;
-    background: wheat;
+    color: lime;
+    background: azure;
     font-style: normal;
     font-variant: inherit;
     font-weight: normal;
     font-stretch: normal;
     font-size: 32px;
     line-height: normal;
-    font-family: arial; 
+    font-family: 'Indie Flower';
     text-align:center;    
 }
