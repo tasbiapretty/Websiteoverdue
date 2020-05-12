@@ -1,5 +1,5 @@
 h1{
-color: darkred;
+color: lawngreen;
 background: wheat;
 font-style: normal;
 font-variant: inherit;
@@ -26,7 +26,7 @@ background-origin: padding-box;
 background-clip: border-box;
 background-attachment: scroll;
 background-color: wheat;
-text-align:center;
+
 }
 img{width:50%;
     height:50%;
@@ -35,7 +35,7 @@ img{width:50%;
     margin-right: auto;
     }
 h3{
-color: darkred;
+color: lawngreen;
 background: wheat;
 font-style: normal;
 font-variant: inherit;
@@ -47,7 +47,7 @@ font-family: arial;
 text-align:center;
 }    
 h2{
-    color: darkred;
+    color: lawngreen;
     background: wheat;
     font-style: normal;
     font-variant: inherit;
