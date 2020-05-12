@@ -1,8 +1,8 @@
 h1{
 color: lightseagreen;
 background: wheat;
-font-style: oblique;
-font-variant: normal;
+font-style: normal;
+font-variant: inherit;
 font-weight: normal;
 font-stretch: normal;
 font-size: 24px;
@@ -18,7 +18,15 @@ font-weight: normal;
 font-stretch: normal;
 font-size: 16px;
 line-height: normal;
-font-family: arial;  
+font-family: arial; 
+background-image: none;
+background-position: 0% 0%;
+background-size: auto auto;
+background-repeat: repeat;
+background-origin: padding-box;
+background-clip: border-box;
+background-attachment: scroll;
+background-color: transparent; 
 }
 img{width:50%;
     height:50%;
