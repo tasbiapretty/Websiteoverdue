@@ -1,5 +1,5 @@
 h1{
-color: lightseagreen;
+color: darkred;
 background: wheat;
 font-style: normal;
 font-variant: inherit;
@@ -28,6 +28,5 @@ background-color: wheat;
 }
 img{width:50%;
     height:50%;
-    display: flex; 
-    justify-content: center; 
+    margin: 40px 40px 40px 40px 
     }
