@@ -17,7 +17,7 @@ font-style: normal;
 font-variant: normal;
 font-weight: normal;
 font-stretch: normal;
-font-size: 16px;
+font-size: 12px;
 font-family: 'Happy Monkey'
 line-height: normal;
 font-family: arial; 
@@ -67,7 +67,7 @@ ol{
     font-variant: inherit;
     font-weight: normal;
     font-stretch: normal;
-    font-size: 14px;
+    font-size: 10px;
     line-height: normal;
     font-family: Arial, Helvetica, sans-serif;   
 }
